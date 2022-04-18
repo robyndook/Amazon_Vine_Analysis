@@ -8,7 +8,7 @@ Module 16: Big Data
 
 [Pet Product Reviews Data Set](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
 
-###### Results - Deliverable 2
+#### Results - Deliverable 2
 
 ![helpfulvotescount](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-18_09-59-47.jpg)
 
@@ -29,7 +29,7 @@ Module 16: Big Data
 - Vine 5 Start Percentage = 38.235294%
 - Non-Vine 5 Start Percentage = 54.471459%
 
-###### Results - Deliverable 1
+#### Results - Deliverable 1
 
 ![customers_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-24-30.jpg)
   - Customers Table
