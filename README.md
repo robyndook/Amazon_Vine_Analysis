@@ -6,7 +6,7 @@ Module 16: Big Data
 
 ###### Resources
 
-Pet Product Reviews Data Set [amazondataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
+[Pet Product Reviews Data Set](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Pet_Products_v1_00.tsv.gz)
 
 ###### Results - Deliverable 2
 
@@ -31,13 +31,24 @@ Pet Product Reviews Data Set [amazondataset](https://s3.amazonaws.com/amazon-rev
 
 ###### Results - Deliverable 1
 
-![customers_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-24-30.jpg)
-![customers_table_sql](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-18_09-14-57.jpg)
-![products_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-25-35.jpg)
-![review_id_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-26-06.jpg)
-![vine_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-26-33.jpg)
-![sql_tables](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-18_10-07-10.jpg)
-
+- ![customers_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-24-30.jpg)
+  - Customers Table
+  
+- ![customers_table_sql](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-18_09-14-57.jpg)
+  - Customers table in SQL
+ 
+- ![products_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-25-35.jpg)
+  - Products Table
+ 
+- ![review_id_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-26-06.jpg)
+  - Review ID Table
+  
+- ![vine_table](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-16_13-26-33.jpg)
+  - Vine Table
+  
+- ![sql_tables](https://github.com/robyndook/Amazon_Vine_Analysis/blob/ce97be024d351297bb64c3645072d02521de7dd8/Images/2022-04-18_10-07-10.jpg)
+  - Four Tables Loaded in SQL
+ 
 ###### Summary
 - The analysis is biased towards unpaid Vine reviews
 - 50% of helpful votes may have been too large for paid Vine reviews. I suggest using all paid vine reviews to determine satisfaction levels. This may give insight to why most reviews an unpaid. 
